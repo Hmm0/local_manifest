@@ -4,7 +4,7 @@
         <remote name="Hmm0"
                 fetch="https://github.com/Hmm0" />
 
-        <project path="device/xiaomi/land" name="android_device_xiaomi_land" remote="Hmm0" revision="dot" clone-depth="1" />
+        <project path="device/xiaomi/land" name="android_device_xiaomi_land" remote="Hmm0" revision="ssos" clone-depth="1" />
 
         <remote name="sairam"
                 fetch="https://github.com/sairam1411" />"
